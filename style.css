@@ -1,0 +1,84 @@
+#img
+{
+    width:auto;
+    height: auto;
+    background-image: url('code2.jpg');
+   background-size:contain;
+   
+  
+}
+
+#title
+{
+    width:auto;
+    height: 100px;;
+    background-color: rgb(4, 68, 110);
+    text-align: center;
+    font-size: 30px;
+    font-style: inherit;
+    padding: 12px 12px 12px 12px;
+    color: rgb(244, 240, 255);
+}
+#youtube
+{
+    padding: 10px 10px 10px 10px;
+    margin-top: 10px;
+}
+#about
+{
+    height: 134px;
+    font-size: 25px;
+    background-color: teal;
+    padding: 22px;
+}
+.navigation
+{
+    background-color: black;
+}
+.navigation a
+{
+color:aliceblue;
+padding: 8px;
+size: 18px;
+font-size: 25px;
+}
+.navigation a:hover
+{
+    color: rgb(71, 112, 148);
+}
+.fa-instagram {
+    background: #e4dde1;
+    color: rgb(224, 66, 26);
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  #socialInsta
+  {
+      box-sizing: border-box;
+      border: 2px solid #b6367e; 
+      width: fit-content;
+      background-image: url('insta\ back.jpg');
+      padding: 10px;
+      
+  }
+  #socialFace
+  {
+    box-sizing: border-box;
+    border: 2px solid #b6367e; 
+    width: fit-content;
+    background-image: url('facebook\ back.jpg');
+    padding: 10px;
+    background-size: contain;
+    color: aliceblue;
+    
+  }
+  #socialFace a:hover
+  {
+      color: bisque;
+  }
